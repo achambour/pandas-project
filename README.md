@@ -1,4 +1,4 @@
-# pandas-project-jeopardy
+# Pandas project: Jeopardy
 
 A practical application of python's library pandas for data analysis.
 
